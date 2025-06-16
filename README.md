@@ -26,7 +26,7 @@ Olá! Meu nome é Guilherme e sou um desenvolvedor em formação com foco em bac
 Se quiser trocar uma ideia ou colaborar em algum projeto, entre em contato:
 
 - Email: guilimagui2005@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/guilherme-lima-9708662b7/  
+- LinkedIn: https://www.linkedin.com/in/guilhermelima14  
 - GitHub: https://github.com/GuiLm05
 
 ---
