@@ -18,7 +18,6 @@ Olá! Meu nome é Guilherme e sou um desenvolvedor em formação com foco em bac
 - Aprofundar meus conhecimentos em Java.
 - Praticar testes automatizados com Pytest e Django Test.
 - Contribuir para projetos open source.
-- Criar uma API REST completa com Django REST Framework.
 
 ---
 
